@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/4itc_mp2_Malto-Soliven/static/css/main.46f90591.css",
+    "main.js": "/4itc_mp2_Malto-Soliven/static/js/main.94707fa8.js",
+    "static/media/icon.png": "/4itc_mp2_Malto-Soliven/static/media/icon.2fef93c188b70cf2f987.png",
+    "static/media/logo.png": "/4itc_mp2_Malto-Soliven/static/media/logo.73ca2530310a6ea22e8c.png",
+    "static/media/bg.jpg": "/4itc_mp2_Malto-Soliven/static/media/bg.fe45970b06dcc0488816.jpg",
+    "static/media/glyphicons-halflings-regular.svg": "/4itc_mp2_Malto-Soliven/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/4itc_mp2_Malto-Soliven/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/4itc_mp2_Malto-Soliven/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/4itc_mp2_Malto-Soliven/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/4itc_mp2_Malto-Soliven/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/4itc_mp2_Malto-Soliven/index.html",
+    "main.46f90591.css.map": "/4itc_mp2_Malto-Soliven/static/css/main.46f90591.css.map",
+    "main.94707fa8.js.map": "/4itc_mp2_Malto-Soliven/static/js/main.94707fa8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46f90591.css",
+    "static/js/main.94707fa8.js"
+  ]
+}
